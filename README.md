@@ -23,11 +23,11 @@ You can find our main result below.
     <tr>
       <th></th>
       <th>Default</th>
-      <th>w/ framework</th>
+      <th>w/ KCQRL (ours)</th>
       <th>Imp. (abs.)</th>
       <th>Imp. (%)</th>
       <th>Default</th>
-      <th>w/ framework</th>
+      <th>w/ KCQRL (ours)</th>
       <th>Imp. (abs.)</th>
       <th>Imp. (%)</th>
     </tr>
