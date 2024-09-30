@@ -10,6 +10,8 @@ Our KCQRL framework consistently improves the performance of state-of-the-art KT
 2) [Representation Learning of Questions](#2-representation-learning-of-questions): We propose a novel contrastive learning paradigm to jointly learn representations of question content, solution steps, and KCs. As a result, our KCQRL effectively leverages the semantics of question content and KCs, as a clear improvement over existing KT models.
 3) [Improving KT Models](#3-improving-kt-models): We integrate the learned representations into KT models to improve their performance. Our framework is flexible and can be combined with any state-of-the-art KT model for improved results.
 
+You can find our main result below. 
+
 <table>
   <caption><strong>Improvement in the performance of KT models from our framework.</strong> Shown: AUC with std. dev. across 5 folds. Improvements are shown as both absolute and relative (%) values.</caption>
   <thead>
@@ -199,7 +201,7 @@ Our KCQRL framework consistently improves the performance of state-of-the-art KT
   </tbody>
   <tfoot>
     <tr>
-      <td colspan="9">Best values are in bold. The shading in green shows the magnitude of the performance gain.</td>
+      <td colspan="9">Best values are in bold.</td>
     </tr>
   </tfoot>
 </table>
