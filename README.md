@@ -262,7 +262,7 @@ After training, you can save the embeddings by following [save_embeddings.ipynb]
 
 ## 3) Improving KT Models
 
-We implemented the improved versions of KT models via [pykt](https://github.com/pykt-team/pykt-toolkit) library. We forked the library to [pykt-toolkit](pykt-toolkit) and developed the algorithsm there. Specifically, our implemented KT models can be found in [models](pykt-toolkit/pykt/models) folder. 
+We implemented the improved versions of KT models via [pykt](https://github.com/pykt-team/pykt-toolkit) library. We forked the library to [pykt-toolkit](pykt-toolkit) and developed the models there. Specifically, our implemented KT models can be found in [models](pykt-toolkit/pykt/models) folder. 
 
 As the naming convention, we added `Que` suffix to the existing models, where "que" refers to our "learned question representations". For instance, the improved version of `SimpleKT` is implemented as `SimpleKTQue` and can be found in [simplekt_que.py](pykt-toolkit/pykt/models/simplekt_que.py). 
 
