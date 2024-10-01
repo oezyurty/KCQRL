@@ -208,10 +208,10 @@ You can find our main result below.
 
 ## Setup
  
- **Dataset details**: We used XES3G5M (we translated from Chinese to English) and EEDI datasets for our work. 
+ **Dataset details**: We used XES3G5M (we translated from Chinese to English) and Eedi datasets for our work. 
 
  - The details of XES3G5M can be found [here](https://github.com/ai4ed/XES3G5M). You can download the dataset by following instructions there. After the download, You can add the files from [data/XES3G5M/metadata](data/XES3G5M/metadata) to run our framework. 
- - [EEDI](https://eedi.com) dataset can be acquired upon request 
+ - [Eedi](https://eedi.com) dataset can be acquired upon request. After acquired, you can create a new folder `data/Eedi/` and move your files there. Then, you can run the preprocessing code we provide, `python data_preprocess.py --dataset_name=eedi` inside the directory [pykt-toolkit](pykt-toolkit).
 
  `Important note`: For XES3G5M, we already provide its English translation, entire output from our KC annotation, and the clustering of KCs [here](data/XES3G5M/metadata).
  * Therefore, after downloading XES3G5M dataset from its source (for exercise histories), you can directly start from our [Representation Learning of Questions](#2-representation-learning-of-questions) and quickly improve your existing KT model!
