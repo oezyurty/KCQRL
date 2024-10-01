@@ -1,4 +1,4 @@
-# KCQRL: Automatic Skill Extraction and Question Representation Learning for Knowledge Tracing
+# KCQRL: Automated Knowledge Concept Annotation and Question Representation Learning for Knowledge Tracing
 
 ![The overview of our framework](Framework.png)
 
