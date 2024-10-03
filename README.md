@@ -2,7 +2,7 @@
 
 ![The overview of our framework](Framework.png)
 
-This is the repository of KCQRL: Automated **K**nowledge **Concept** Annotation and **Q**uestion **R**epresentation **L**earning for Knowledge Tracing. [[link](https://arxiv.org/abs/2410.01727) to our paper]
+This is the repository of KCQRL: Automated **K**nowledge **C**oncept Annotation and **Q**uestion **R**epresentation **L**earning for Knowledge Tracing. [[link](https://arxiv.org/abs/2410.01727) to our paper]
 
 **Note:** If you find our work valuable or use the English translation and/or annotations of the XES3G5M dataset, we kindly ask you to consider citing our work.
 ```
