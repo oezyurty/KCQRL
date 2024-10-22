@@ -56,7 +56,7 @@ You can find our main result below.
       <td style="background-color: #66CD66;">+1.88%</td>
     </tr>
     <tr>
-      <td>DKT$+$</td>
+      <td>DKT+</td>
       <td>78.57 ± 0.05</td>
       <td>82.34 ± 0.04</td>
       <td style="background-color: #228B22;">+3.77</td>
