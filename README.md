@@ -243,7 +243,7 @@ We use the English translation of XES3G5M dataset [`questions_translated.json`](
 
 You can run the command below
 
-`python get_mapping_kc_solsteps.py --original_question_file ../data/XES3G5M/metadata/questions_translated.json --annotated_question_file ../data/XES3G5M/metadata/questions_translated_kc_annotated.json`
+`python get_step_by_step_solutions.py --original_question_file ../data/XES3G5M/metadata/questions_translated.json --annotated_question_file ../data/XES3G5M/metadata/questions_translated_kc_annotated.json`
 
 ### b) KC annotation
 
