@@ -2,7 +2,17 @@
 
 ![The overview of our framework](Framework.png)
 
-This is the repository of KCQRL: Automated **K**nowledge **C**oncept Annotation and **Q**uestion **R**epresentation **L**earning for Knowledge Tracing.
+This is the repository of KCQRL: Automated **K**nowledge **C**oncept Annotation and **Q**uestion **R**epresentation **L**earning for Knowledge Tracing. [[link](https://arxiv.org/abs/2410.01727) to our paper]
+
+**Note:** If you find our work valuable or use the English translation and/or annotations of the XES3G5M dataset, we kindly ask you to consider citing our work.
+```
+@article{ozyurt2024automated,
+  title={Automated Knowledge Concept Annotation and Question Representation Learning for Knowledge Tracing},
+  author={Ozyurt, Yilmazcan and Feuerriegel, Stefan and Sachan, Mrinmaya},
+  journal={arXiv preprint arXiv:2410.01727},
+  year={2024}
+}
+```
 
 
 Our KCQRL framework consistently improves the performance of state-of-the-art KT models by a clear margin. For this, we developed our framework in 3 modules: 
